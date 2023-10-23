@@ -32,8 +32,8 @@ const router = createBrowserRouter([
     element: <Reset></Reset>
   },
   {
-    path: '/username',
-    element: <Username></Username>
+    path: '/password',
+    element: <Password></Password>
   }
 ])
 
